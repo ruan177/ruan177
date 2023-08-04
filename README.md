@@ -59,7 +59,4 @@ Obrigado(a) por visitar o meu perfil do GitHub. Estou animado(a) para interagir 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e
 
 
-## Git Stats
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/ruan177/github-readme-stats)
-</p>
+
