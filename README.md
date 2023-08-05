@@ -32,10 +32,6 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui está um resumo do meu conhecimento e
 - Este repositório contém meus projetos pessoais, estudos, tutoriais e experimentos.
 - Sinta-se à vontade para explorar, colaborar e fornecer feedbacks para aprimoramento contínuo.
 
-**Contato:**
-- E-mail: seuemail@example.com
-- LinkedIn: linkedin.com/in/seuperfil
-- Website: seuwebsite.com
 
 Obrigado(a) por visitar o meu perfil do GitHub. Estou animado(a) para interagir com a comunidade e crescer como profissional de programação. Vamos juntos construir um mundo digital melhor através da tecnologia!
 ## ✉️ Find me on:
@@ -50,7 +46,6 @@ Obrigado(a) por visitar o meu perfil do GitHub. Estou animado(a) para interagir 
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwindcss/tailwindcss.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="vertical-align:top; margin:4px">
