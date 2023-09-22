@@ -34,6 +34,14 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui está um resumo do meu conhecimento e
 
 
 Obrigado(a) por visitar o meu perfil do GitHub. Estou animado(a) para interagir com a comunidade e crescer como profissional de programação. Vamos juntos construir um mundo digital melhor através da tecnologia!
+
+## Languages:
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan177)](https://github.com/ruan177/github-readme-stats)
+
+
+
+
 ## ✉️ Find me on:
 
 <p align="center">
@@ -41,6 +49,7 @@ Obrigado(a) por visitar o meu perfil do GitHub. Estou animado(a) para interagir 
 </p>
 
 <br />
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
