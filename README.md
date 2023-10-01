@@ -20,11 +20,11 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui está um resumo do meu conhecimento e
 - Implementação de lógicas complexas para atender a diversas demandas de negócios.
 
 **Frontend:**
-- Experiência em React para desenvolvimento de interfaces intuitivas e responsivas.
+- Experiência básica em React para desenvolvimento de interfaces intuitivas e responsivas, de forma a tornar os projetos de back end mais visuais.
 - Familiaridade com Tailwind CSS para estilização e design moderno.
 
 **Objetivos:**
-- Continuar aprimorando minhas habilidades em desenvolvimento backend e frontend.
+- Continuar aprimorando minhas habilidades em desenvolvimento backend.
 - Contribuir com a comunidade de desenvolvimento através de projetos de código aberto.
 - Compartilhar conhecimentos e experiências com outros desenvolvedores.
 
